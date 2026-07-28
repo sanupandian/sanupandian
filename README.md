@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @sanjay
-- 👀 I’m interested in python full stack
-- 🌱 I’m currently learning web development by using phython fullstack
-- 📫 sanjaypandian7@gmail.com
-- 😄 Chillax
-- ⚡ No Guts No Glory
-
-<!---
-sanupandian/sanupandian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 Former Associate Software Developer (AI & Backend Development)
+🐍 Experienced in Python and FastAPI
+🤖 Built AI-powered applications using OpenAI GPT models
+🗄️ Strong experience with MongoDB
+🔐 Developed secure REST APIs with JWT Authentication
+📧 Implemented Email, OTP, and Notification services
+🌱 Continuously learning AI, cloud technologies, and scalable backend architectures
+💡 Passionate about building production-ready software
