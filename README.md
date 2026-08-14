@@ -1,4 +1,4 @@
-💼 Former Associate Software Developer (AI & Backend Development)
+💼 Software Developer (AI & Backend Development)
 🐍 Experienced in Python and FastAPI
 🤖 Built AI-powered applications using OpenAI GPT models
 🗄️ Strong experience with MongoDB
